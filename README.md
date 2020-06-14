@@ -12,4 +12,4 @@ Due to COVID restrictions, the class is never going to meet in person. Thats a s
 
 I'm hoping some of you will catch the coding bug like I did and decide its something worth pursuing. Tech is such an exciting field, so it doesn't take much to get people excited about learning. You may not go home after one day of the class and decide to switch your major or career (it would be awesome if you did :) ), but I do hope you'll be excited enough about the possibilites and opportunities that you'll keep learning on your own. 
 
-Feel free to connect with me on [https://www.linkedin.com/in/stschoberg/](linknedin) or check out some of my projects on [https://medium.com/@stschoberg](Medium). 
+Feel free to connect with me on [linkedin](https://www.linkedin.com/in/stschoberg/) or check out some of my projects on [Medium](https://medium.com/@stschoberg). 
